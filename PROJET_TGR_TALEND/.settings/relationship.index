@@ -1,1 +1,12 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_uaFBEFOrEe6hKqJaDpXXHA",
+    "version" : "0.1",
+    "type" : "test_case"
+  },
+  "relatedItems" : [ {
+    "id" : "_3Oc90MpQEe22H7JVsDH7xg",
+    "version" : "0.1",
+    "type" : "test_case"
+  } ]
+} ]
